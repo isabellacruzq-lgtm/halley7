@@ -1,0 +1,5 @@
+bd.host=localhost
+bd.puerto=3306
+bd.nombre=halley7
+bd.usuario=root
+bd.clave=molly_2017

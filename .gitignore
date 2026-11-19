@@ -1,0 +1,13 @@
+# Credenciales locales
+config/config.properties
+
+# Java / Maven
+java/target/
+
+# Editores
+.idea/
+.vscode/
+*.iml
+
+# Informes generados
+informes/
